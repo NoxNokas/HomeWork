@@ -7,5 +7,5 @@
     <!-- [Text](link) -->
     * Задача классификации: [Colab](https://drive.google.com/file/d/1QYOb4DLsOflvhoP3G3PlaB6kAkTzSw5G/view?usp=sharing "Optional Title")
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/Classification.ipynb "Optional Title")
-    * Задача регрессии: [Colab](https://drive.google.com/file/d/1QYOb4DLsOflvhoP3G3PlaB6kAkTzSw5G/view?usp=sharing "Optional Title")
+    * Задача регрессии: [Colab](https://drive.google.com/file/d/1sfKVRmWLphr3KOwNmbzxFSD1UveuE0-i/view?usp=sharing "Optional Title")
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/Regression.ipynb "Optional Title")
