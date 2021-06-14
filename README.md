@@ -13,3 +13,5 @@
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/Tracking.ipynb "Optional Title")
     * Реализация алгоритма RANSAC: [Colab](https://colab.research.google.com/drive/1A1NPFNBx6CmP7EH51Uj6uIapht_yu1fc?usp=sharing "Optional Title")
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/RANSAC.ipynb "Optional Title")
+    * Реализация алгоритма RANSAC для эллипса: [Colab](https://colab.research.google.com/drive/1KDlnNMbNovkRH995HJQ1w1UjPSboTHr7?usp=sharing "Optional Title")
+      [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/RANSAC_ellipse.ipynb "Optional Title")
