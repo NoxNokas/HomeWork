@@ -15,3 +15,10 @@
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/RANSAC.ipynb "Optional Title")
     * Реализация алгоритма RANSAC для эллипса: [Colab](https://colab.research.google.com/drive/1KDlnNMbNovkRH995HJQ1w1UjPSboTHr7?usp=sharing "Optional Title")
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/RANSAC_ellipse.ipynb "Optional Title")
+
+### Раздел ML
+* Лабораторные работы.
+    <!-- [Text](link) -->
+    * Вторая лабораторная работа: [Colab](https://colab.research.google.com/drive/1Llib5iZQagZN62k6eZEuwUYE1DY8m2lg?usp=sharing "Optional Title")
+      [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/IntroKerasTF.ipynb "Optional Title")
+    * Третья лабораторная работа: [Общий репозиторий](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-new-team-1 "Optional Title"
