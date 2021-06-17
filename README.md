@@ -21,4 +21,4 @@
     <!-- [Text](link) -->
     * Вторая лабораторная работа: [Colab](https://colab.research.google.com/drive/1Llib5iZQagZN62k6eZEuwUYE1DY8m2lg?usp=sharing "Optional Title")
       [Jupyter Notebook](https://github.com/NoxNokas/HomeWork/blob/main/jupyter/IntroKerasTF.ipynb "Optional Title")
-    * Третья лабораторная работа: [Общий репозиторий](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-new-team-1 "Optional Title"
+    * Третья лабораторная работа: [Общий репозиторий](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-new-team-1 "Optional Title")
